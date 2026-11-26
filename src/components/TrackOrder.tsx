@@ -98,4 +98,5 @@ export function TrackOrder({ onBack }: TrackOrderProps) {
         </div>
       )}
     </div>
-  );  
+  );
+}
